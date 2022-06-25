@@ -5,5 +5,5 @@ categories: [Thesis]
 tags: [Godot, GDScript]
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/7CnRuaznDZ4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7CnRuaznDZ4" frameborder="0" allowfullscreen></iframe>
 

@@ -5,4 +5,4 @@ categories: [Interactive Tools]
 tags: [Godot,VR,WebXR]
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/CVWR7GINIkI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CVWR7GINIkI" frameborder="0" allowfullscreen></iframe>
