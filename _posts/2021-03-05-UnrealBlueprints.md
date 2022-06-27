@@ -7,7 +7,7 @@ image_side: /assets/images/Koen_UFT_Workshop1 - Unreal Editor 13_04_2020 20_08_2
 image_flair: /assets/images/Koen_UFT_Workshop1 - Unreal Editor 13_04_2020 20_13_03.png
 ---
 
-add Placement of RTS Settlements
+**In Progress**
 
 ![]({{ page.image_side| relative_url}})
 ![]({{ page.image_flair| relative_url}})

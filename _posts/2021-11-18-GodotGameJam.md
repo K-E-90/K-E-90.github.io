@@ -5,6 +5,4 @@ categories: [Interactive Tools]
 tags: [Godot]
 ---
 
-GameJam in a team of two 
-
-https://tyranicgoat.itch.io/elemental-energy
+**In Progress**

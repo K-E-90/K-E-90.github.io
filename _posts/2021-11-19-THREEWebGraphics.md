@@ -5,7 +5,7 @@ categories: [Interactive Tools]
 tags: [Three.js, Javascript]
 ---
 
-I also experimented with Three.js, a 3D JavaScript library. I wanted to encorporate this in my [modeled drone]({% post_url 2021-09-05-BlenderDroneModel %}) post, however, I wasn't able to get the glTF importer to work over the weekend. Therefor, I just created a empty scene with a torus and a light. Rotating is possible with the left mouse button.
+I also experimented with Three.js, a 3D JavaScript library. The plan is to encorporate this in my [modeled drone]({% post_url 2021-09-05-BlenderDroneModel %}) post. Here is an example of a simple scene with a torus and a light. Rotating is possible with the left mouse button.
 
 <style type="text/css" rel="stylesheet">
 #cube {
