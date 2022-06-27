@@ -3,6 +3,8 @@ title: Data Encryption Tool
 date: 2022-06-17 12:00:00 +0200
 categories: [Encryption]
 tags: [Encryption,Python]
+image_folder: /assets/images/EncryptFolder.png
+image_tools: /assets/images/EncryptToolsFolder.png
 ---
 
 <!-- # An encryption tool for data protection. -->
@@ -24,11 +26,10 @@ The program uses this library to generate a key by hashing the password with a r
 The salt is saved on the USB stick with the encrypted files and the executables to encrypt and decrypt the folder.
 
 
+Here is a snip of the encryption.py file before it was compiled. The EncryptLib is a collection of functions I use for both encryption and decryption as they share a lot of functionality.
 
 ```python
-import cryptography
 import EncryptoLib as EL
-
 
 def main():
     [succes, salt] = EL.get_salt()
@@ -43,10 +44,14 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
 ```
 
 ## Result
 
+The resultion folders on the USB look like this:
 
+![]({{ page.image_folder| relative_url}})
 
+In the tools folder are the executables required for encryption, decryption, key generation and saving the key to the computer.
+
+![]({{ page.image_tools| relative_url}})
