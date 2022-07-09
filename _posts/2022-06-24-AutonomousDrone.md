@@ -55,7 +55,7 @@ $$     \begin{bmatrix}
 \Delta a_{Y_B} \\
 \Delta a_{Z_B}
 \end{bmatrix}
-= 
+= f
 \begin{bmatrix}
 \frac{\partial  a_{X_B}}{\partial \phi} & \frac{\partial  a_{X_B}}{\partial \theta}  & \frac{\partial  a_{X_B}}{\partial \psi}  & \frac{\partial  a_{X_B}}{\partial T}  \\
 \frac{\partial  a_{Y_B}}{\partial \phi} & \frac{\partial  a_{Y_B}}{\partial \theta}  & \frac{\partial  a_{Y_B}}{\partial \psi}  & \frac{\partial  a_{Y_B}}{\partial T}  \\
